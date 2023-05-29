@@ -1,24 +1,25 @@
 ---
-title: "Your scholarly website here."
+title: "Programa e cronograma"
 layout: single
+classes: wide
+author_profile: true
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor\'s_Dream_(1848).jpeg
   overlay_filter: 0.3
   caption: "Charles Robert Cockerell, [The Professor's Dream](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
   actions:
-  - label: "GitHub"
-    url: https://github.com/p3palazzo/jekyll-pandoc-tufte-mmistakes
-excerpt: >
-  A scholarly website template using Jekyll, Pandoc, Tufte CSS,
-  Minimal-Mistakes theme
+  - label: "Plano de ensino"
+    url: /plano/
+tagline: >
+  <dl>
+    <dt>Ementa</dt>
+    <dd>
+      História das respostas às solicitações climáticas. O lugar e
+      a perspectiva histórica do traçado das cidades, dos edifícios
+      e dos espaços públicos externos.
+    </dd>
+    <dt>Objetivo de aprendizagem</dt>
+    <dd></dd>
+  </dl>
 ---
-
-See the
-[GitHub repository](https://github.com/p3palazzo/jekyll-pandoc-tufte-mmistakes)
-for instructions on how to use this template.
-
-For a working example, check out:
-
-- [My personal website](https://palazzo.pt/)
-- [One of my course websites](https://palazzo.arq.br/tau0005/)
 
