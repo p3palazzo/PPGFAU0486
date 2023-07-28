@@ -43,9 +43,9 @@ feature_row:
       Atribuição de valores sociais ao patrimônio cultural
 
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor\'s_Dream_(1848).jpeg
-  overlay_filter: 0.3
-  caption: "Charles Robert Cockerell, [The Professor's Dream](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/José_Wasth_Rodrigues_-_Rua_do_Rosário,_1858,_Acervo_do_Museu_Paulista_da_USP.jpg/2560px-José_Wasth_Rodrigues_-_Rua_do_Rosário,_1858,_Acervo_do_Museu_Paulista_da_USP.jpg
+  overlay_filter: 0.5
+  caption: "José Wasth Rodrigues, [Rua do Rosário em 1858](https://commons.wikimedia.org/wiki/File:José_Wasth_Rodrigues_-_Rua_do_Rosário,_1858,_Acervo_do_Museu_Paulista_da_USP.jpg), 1920"
 
 sidebar:
   - title: Expediente
