@@ -1,5 +1,5 @@
 ---
-title: "Plano de Ensino"
+title: "Arquitetura adequada ao lugar"
 date: 2023-08-31
 authors:
   - Pedro Palazzo
@@ -14,11 +14,23 @@ feature_row:
       Introdução ao estudo do lugar – O passado dos lugares não é um
       país estrangeiro – Princípios de topofilia e fenomenologia
     image_path:
-  - title: "Tradição e lugar"
+  - title: "Substrato urbanístico"
     excerpt: >
-      A vinculação das tradições aos lugares – Cultura e trabalho
-      – Processos produtivos artesanais e o impacto da indústria na
-      transmissão local de saberes e práticas
+      Os quatro paradigmas da urbanização tradicional – Parcelamento
+      do solo e bioclimatismo – Regimes tradicionais de propriedade
+      fundiária
+    image_path:
+  - title: "Agentes e lugares"
+    excerpt: >
+      Arquitetos calçados e descalços – Percursos formativos e
+      vinculação dos artesãos aos lugares – Persistências
+      tradicionais em meio à modernização
+    image_path:
+  - title: "Construção vernacular"
+    excerpt: >
+      A vinculação das tradições aos lugares – Sistemas e
+      processos construtivos – Processos produtivos artesanais e o
+      impacto da indústria na transmissão local de saberes e práticas
     image_path:
   - title: "Ecossistema construído"
     excerpt: >
@@ -26,21 +38,45 @@ feature_row:
       – Respostas culturais às condicionantes naturais – Impactos
       ecológicos da produção do ambiente construído
     image_path:
-  - title: "Processos e padrões"
+  - title: "A casa e a oficina"
     excerpt: >
       Visão holística da arquitetura vernácula – Tipologia e
-      Morfologia – A casa e a oficina – Estilos como síntese dos
-      saberes vernaculares
+      Morfologia – Estilos como síntese dos saberes vernaculares –
+      O cômodo como unidade mínima da identidade local
+    image_path:
   - title: "Identidades coletivas"
     excerpt: >
       Identidade como construção interpessoal – Participação
       social na produção do ambiente construído – Tradições e
       coesão social
+    image_path:
+  - title: "Processos e padrões"
+    excerpt: >
+      Tradições locais como articulação de padrões – Caráter e
+      funcionalidade – Espaços e limiares
+    image_path:
   - title: "Tecnologias do lugar"
     excerpt: >
       Processos produtivos e tecnologias sociais – Simulações
       bioclimáticas e estruturais no estudo das tradições locais –
-      Atribuição de valores sociais ao patrimônio cultural
+      Patrimônio cultural e valor social
+    image_path:
+  - title: "Estilo e identidade"
+    excerpt: >
+      Estilo como metonímia da identidade local – Formação de
+      linguagens arquitetônicas – Tratadística erudita e saberes
+      vernaculares
+    image_path:
+  - title: "Fazer vernacular"
+    excerpt: >
+      Autenticidade do vernáculo contemporâneo – Teorias unificadas
+      da arquitetura – Regionalismo crítico e tradicionalismo
+      figurativo
+    image_path:
+  - title: "Tema livre"
+    excerpt: >
+      Abordagem de tópicos de interesse da turma
+    image_path:
 
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/José_Wasth_Rodrigues_-_Rua_do_Rosário,_1858,_Acervo_do_Museu_Paulista_da_USP.jpg/2560px-José_Wasth_Rodrigues_-_Rua_do_Rosário,_1858,_Acervo_do_Museu_Paulista_da_USP.jpg
