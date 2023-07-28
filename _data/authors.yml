@@ -1,4 +1,4 @@
-Pedro P. Palazzo:
+Pedro Palazzo:
   name             : "Pedro P. Palazzo"
   avatar           : "https://avatars.githubusercontent.com/u/8295666?s=400&u=874bd9ba623ae5ceb9cd1b559bab3479fcda9a30&v=4"
   bio              : "Professor Associado"
@@ -24,12 +24,12 @@ Pedro P. Palazzo:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-Ana Flávia Rego Mota:
-  name             : "Ana Flávia Rego Mota"
-  avatar           : 
-  bio              : "Professora Substituta"
+Elane Peixoto:
+  name             : "Elane Ribeiro Peixoto"
+  avatar           : /assets/media/avatar-elane-peixoto.jpg
+  bio              : "Professora Associada"
   location         : "FAU–UnB"
-  email            : anafrmota@gmail.com
+  email            : elane@unb.br
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
