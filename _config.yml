@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "PPGFAU0486"
 title_separator          : "-"
-subtitle                 : "Arquitetura, Tradição e Lugar"
-name                     : &name "Pedro P. Palazzo"
+subtitle                 : "segundo semestre de 2023"
+name                     : "Pedro P. Palazzo; Elane Ribeiro Peixoto"
 description: >
   História das respostas às solicitações climáticas. O lugar e a
   perspectiva histórica do traçado das cidades, dos edifícios e dos
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : "Pedro P. Palazzo"
   avatar           : "https://avatars.githubusercontent.com/u/8295666?s=400&u=874bd9ba623ae5ceb9cd1b559bab3479fcda9a30&v=4"
   bio              : "Professor Associado"
   location         : "FAU–UnB"
@@ -213,10 +213,7 @@ kramdown:
   enable_coderay: false
 pandoc:
   extensions:
-    - defaults: "_spec/html.yaml"
-    - bibliography: "_data/biblio.yaml"
-    - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
-    - section-divs
+    defaults: "_data/defaults.yaml"
 relative_links:
   enabled: true
   collections: true
@@ -226,13 +223,15 @@ relative_links:
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true # https://github.com/mmistakes/minimal-mistakes/issues/4054#issuecomment-1396536483
 
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
+timezone: America/Sao_Paulo
+date_format: "%d/%m/%Y"
 
 
 # Plugins (previously gems:)

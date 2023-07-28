@@ -1,0 +1,11 @@
+data-dir: _data
+metadata:
+  bibliography: _data/biblio.yaml
+  csl: _data/chicago-note-bibliography.csl
+  lang: pt-BR
+  crossrefYaml: _data/pandoc-crossref.yaml
+filters:
+  - pandoc-crossref
+  - citeproc
+  - pandoc-sidenote
+shift-heading-level-by: 1

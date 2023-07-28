@@ -1,5 +1,7 @@
 # PPGFAU0486 Arquitetura, Tradição e Lugar
 
+![GitHub Pages](https://github.com/p3palazzo/PPGFAU0486/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+
 ------
 
  PPGFAU0486 (c) 2022 by Pedro Paulo Palazzo
