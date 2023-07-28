@@ -136,5 +136,13 @@ estudante e a equipe docente.
 
 # Bibliografia básica #
 
+```{=html}
+{% include biblio-basica.html %}
+```
+
 # Bibliografia complementar #
+
+```{=html}
+{% include biblio-complementar.html %}
+```
 
