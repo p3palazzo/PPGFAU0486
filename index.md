@@ -9,16 +9,16 @@ layout: single
 toc: true
 
 feature_row:
-  - title: "O que é « lugar »"
-    excerpt: >
-      Introdução ao estudo do lugar – O passado dos lugares não é um
-      país estrangeiro – Princípios de topofilia e fenomenologia
-    image_path:
   - title: "Substrato urbanístico"
     excerpt: >
       Os quatro paradigmas da urbanização tradicional – Parcelamento
       do solo e bioclimatismo – Regimes tradicionais de propriedade
       fundiária
+    image_path:
+  - title: "O que é « lugar »"
+    excerpt: >
+      Introdução ao estudo do lugar – O passado dos lugares não é um
+      país estrangeiro – Princípios de topofilia e fenomenologia
     image_path:
   - title: "Agentes e lugares"
     excerpt: >
