@@ -240,9 +240,9 @@ discentes.
 
 # Avaliação #
 
-O desempenho na disciplina será aferido pela apresentação de um produto
-bibliográfico ou técnico original, afeito ao objetivo de aprendizagem e
-ao programa da disciplina, em formato a ser pactuado entre cada
+O desempenho na disciplina será aferido pela elaboração de um catálogo
+de práticas e saberes vernaculares, afeito ao objetivo de aprendizagem e
+ao programa da disciplina, em tema e formato a ser pactuado entre cada
 estudante e a equipe docente.
 
 # Bibliografia básica #
