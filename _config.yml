@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "PPGFAU0486"
+title                    : "PPGFAU 0486"
 title_separator          : "-"
 subtitle                 : "segundo semestre de 2023"
 name                     : "Pedro P. Palazzo; Elane Ribeiro Peixoto"
@@ -26,7 +26,7 @@ description: >
 url                      : "https://palazzo.arq.br"
 baseurl                  : "/PPGFAU0486"
 repository               : "p3palazzo/PPGFAU0486"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/media/320px-br-sp-sp-r_rosario-jwr-1920.jpg
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -236,7 +236,7 @@ date_format: "%d/%m/%Y"
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -249,7 +249,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
