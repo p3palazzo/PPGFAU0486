@@ -82,7 +82,7 @@ tipos:
       - Rapoport 1972
       - Aragão 2017
       - Palazzo 2018
-    image_path: /assets/media/320px-br-sp-sp-r_rosario-jwr-1920.jpg
+    image_path: https://palazzo.arq.br/TAU0009/assets/media/320px-br-pe-recife-r_cruz-schlappriz-carls-1863.jpg
     url       : "#"
     btn_label : "19 de outubro"
     btn_class : "btn btn--inverse btn--small"
@@ -95,9 +95,15 @@ tipos:
       - Alexander _et al._ 2012
       - Guizzo 2014
       - Malta & Mendonça 2013
-    image_path: /assets/media/320px-br-sp-sp-r_rosario-jwr-1920.jpg
+    image_path: https://palazzo.arq.br/TAU0009/assets/media/320px-Frans_Post-Een_suikerfabriek-2116-Museum_Boijmans_Van_Beuningen.jpg
     url       : "#"
     btn_label : "26 de outubro"
+    btn_class : "btn btn--inverse btn--small"
+
+  - title: "Feriado"
+    image_path: /assets/media/320px-debret-divers-convois-funebres-pl030.jpg
+    url       : "#"
+    btn_label : "2 de novembro"
     btn_class : "btn btn--inverse btn--small"
 
   - title: "Ecossistema construído"
@@ -110,7 +116,7 @@ tipos:
       - Simões _et al._ 2019
       - Bustos Romero 2001
       - Capitel 2005
-    image_path: /assets/media/320px-br-sp-sp-r_rosario-jwr-1920.jpg
+    image_path: https://palazzo.arq.br/TAU0009/assets/media/320px-in-goa-dandim-1886-indiaportuguezab02lope_0272.jpg
     url       : "#"
     btn_label : "9 de novembro"
     btn_class : "btn btn--inverse btn--small"
